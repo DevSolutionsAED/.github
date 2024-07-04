@@ -1,4 +1,4 @@
-## # Grupo Formado por Aaron, Esperanza y J.David 👋
+# Grupo Formado por Aaron, Esperanza y J.David 👋
 
 <!--
 
